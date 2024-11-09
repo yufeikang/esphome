@@ -4,8 +4,8 @@ uart:
   tx_pin: 26
 
 b_route:
-  rbid: !secret rb_id
-  password: !secret rb_password
+  rbid: "test_rbid"
+  password: "test_password"
   power:
     name: power
     update_interval: 20s
