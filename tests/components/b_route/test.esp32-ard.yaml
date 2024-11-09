@@ -4,7 +4,7 @@ uart:
   tx_pin: 26
 
 b_route:
-  rbid: "test_rbid"
+  rbid: "12345678123456781234567812345678"
   password: "test_password"
   power:
     name: power
